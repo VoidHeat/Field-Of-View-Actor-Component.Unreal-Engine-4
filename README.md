@@ -1,4 +1,4 @@
-# Field Of View actor component.Unreal Engine 4
+# Field Of View Actor Component. Unreal Engine 4
 ## ScreenShots
 
 <a href="url"><img src="https://github.com/FalseBool/Pictures/blob/master/FieldOfView/HighresScreenshot00000.png?raw=true" align="left" height="360" width="640" ></a>
