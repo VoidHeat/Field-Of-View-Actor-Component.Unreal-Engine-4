@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "FieldOfView",
+	"Description": "Adds a component that renders the field of view",
+	"Category": "Other",
+	"CreatedBy": "FalseBool",
+	"CreatedByURL": "https://github.com/FalseBool",
+	"DocsURL": "https://github.com/FalseBool",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FieldOfView",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
